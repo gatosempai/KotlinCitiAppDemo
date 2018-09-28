@@ -1,7 +1,8 @@
-package com.example.oscar.kotlincitiappdemo
+package com.example.oscar.kotlincitiappdemo.presentation.view
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import com.example.oscar.kotlincitiappdemo.R
 
 class MainActivity : AppCompatActivity() {
 
